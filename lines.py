@@ -1,3 +1,4 @@
+# creates the dashed lines to separate the streets
 from turtle import Turtle
 HEIGHTS = [-200, -160, -120, -80, -40, 0, 40, 80, 120, 160]
 
