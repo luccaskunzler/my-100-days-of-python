@@ -1,6 +1,9 @@
 from turtle import Turtle
 import random
+
+# list of possible colors for the cars
 COLORS = ['black', 'red', 'purple', 'red', 'blue', 'yellow', 'orange', 'pink']
+# lines in which the cars will drive
 LINES = [-180, -140, -100, -60, -20, 20, 60, 100, 140]
 
 
