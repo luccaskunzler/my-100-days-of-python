@@ -71,7 +71,7 @@ while playing:
             # puts the turtle back in the origin
             racer.origin()
             # increases the speed for next round
-            faster *= 1.1
+            faster *= 1.3
 
         # sets the condition is user want to exit
         if racer.xcor() < -280 and racer.ycor() < -210:
